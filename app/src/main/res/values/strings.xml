@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="send">SEND</string>
+    <string name="hello_world">Hello world</string>
+    <string name="gameButton">Button</string>
+    <string name="GameButton2">Button</string>
+    <string name="GameButton3">Button</string>
+    <string name="GameButton4">Button</string>
+    <string name="ImageButton1">TODO</string>
+    <string name="ImageButton2">TODO</string>
+    <string name="ImageButton3">TODO</string>
+    <string name="ImageButton4">TODO</string>
+    <string name="randomResultText">randomResultText</string>
+    <string name="arvasit_oikein">Arvasit oikein!</string>
+    <string name="arvasit_v_rin">Arvasit väärin!</string>
+    <string name="pisteet">Pisteet:</string>
+    <string name="pisteet_0">Pisteet:0</string>
+    <string name="title_activity_bottom_navigation">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_bottom">MainActivity</string>
+    <string name="switchToGame">Siirry peliin</string>
+    <string name="leveysaste">Leveysaste</string>
+    <string name="pituusaste" />
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_activity_bottom_nav">MainActivity</string>
+    <string name="heading">Heading</string>
+    <string name="businessid">Yritystunnus</string>
+    <string name="companyform">companyform</string>
+    <string name="regdate">regdate</string>
+    <string name="action_search">action_search</string>
+
+
+</resources>
